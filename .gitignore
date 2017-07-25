@@ -1,4 +1,5 @@
 node_modules/
 token
+config.js
 .DS_Store
 .idea/
